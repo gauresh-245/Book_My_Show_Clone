@@ -1,4 +1,4 @@
-# 🎟️ BookMyShow Clone
+# 🎟️ BookMyShow Clone(API Integration Project)
 
 This is a **frontend-only project** built to demonstrate **movie API integration** and **payment gateway configuration** in a real-world ticket booking flow. It simulates the core experience of BookMyShow, including browsing movies and making secure ticket payments—all without a backend.
 
